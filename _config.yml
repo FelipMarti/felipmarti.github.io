@@ -1,0 +1,31 @@
+title: Felip's website
+author: Felip Martí Carrillo
+email: fmarti@swin.edu.au
+description: > # this means to ignore newlines until "baseurl:"
+  This website is about my research and related stuff. Basically, to sell myself for academic purposes.
+
+#twitter_username: jekyllrb
+github_username:  felipmarti
+gscholar_username: citations?user=SS3Yx1AAAAAJ
+orcid_username: 0000-0003-0610-5375
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - index.html 
+ - pub.html
+ - teaching.html
+ - media.html
+ - projects.html
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
