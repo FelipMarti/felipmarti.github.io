@@ -12,7 +12,7 @@ orcid_username: 0000-0003-0610-5375
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b %Y"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
