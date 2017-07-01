@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visualizer of delta robots using ROS and EtherCAT"
+title: "Visualiser of delta robots using ROS and EtherCAT"
 categories: ROS, Delta, Robots, Visualiser
 ---
 
