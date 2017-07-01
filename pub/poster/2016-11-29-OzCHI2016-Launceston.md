@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: "Help me help you: A Human-Assisted Social Robot in Paediatric Rehabilitation"
 ---
 
