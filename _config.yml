@@ -2,7 +2,7 @@ title: Felip's website
 author: Felip Martí Carrillo
 email: fmarti@swin.edu.au
 description: > # this means to ignore newlines until "baseurl:"
-  This website is about my research and related things. Basically, to sell myself for academic purposes.
+  This website is about my research and related things.
 
 #twitter_username: jekyllrb
 github_username:  felipmarti
@@ -20,6 +20,7 @@ header_pages:
  - index.html 
  - pub.html
  - teaching.html
+ - awards.html
  - media.html
  - projects.html
 
