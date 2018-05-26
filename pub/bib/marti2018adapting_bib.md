@@ -18,7 +18,7 @@ title: Adapting a General-Purpose Social Robot for Paediatric Rehabilitation thr
 &#160;&#160;&#160;&#160;pages = {12:1--12:30},<br/>
 &#160;&#160;&#160;&#160;articleno = {12},<br/>
 &#160;&#160;&#160;&#160;numpages = {30},<br/>
-&#160;&#160;&#160;&#160;url = {http://doi.acm.org/10.1145/3203304},<br/>
+&#160;&#160;&#160;&#160;url = {https://doi.org/10.1145/3203304},<br/>
 &#160;&#160;&#160;&#160;doi= {10.1145/3203304},<br/>
 &#160;&#160;&#160;&#160;acmid = {3203304},<br/>
 &#160;&#160;&#160;&#160;publisher = {ACM},<br/>

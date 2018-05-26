@@ -13,7 +13,7 @@ title: In-Situ Design and Development of a Socially Assistive Robot for Paediatr
 &#160;&#160;&#160;&#160;location = {Vienna, Austria},<br/>
 &#160;&#160;&#160;&#160;pages = {199--200},<br/>
 &#160;&#160;&#160;&#160;numpages = {2},<br/>
-&#160;&#160;&#160;&#160;url = {http://doi.acm.org/10.1145/3029798.3038382},<br/>
+&#160;&#160;&#160;&#160;url = {https://doi.org/10.1145/3029798.3038382},<br/>
 &#160;&#160;&#160;&#160;doi = {10.1145/3029798.3038382},<br/>
 &#160;&#160;&#160;&#160;acmid = {3038382},<br/>
 &#160;&#160;&#160;&#160;publisher = {ACM},<br/>

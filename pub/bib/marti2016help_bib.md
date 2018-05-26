@@ -13,7 +13,7 @@ title: "Help me help you: A Human-Assisted Social Robot in Paediatric Rehabilita
 &#160;&#160;&#160;&#160;location = {Launceston, Tasmania, Australia},<br/>
 &#160;&#160;&#160;&#160;pages = {659--661},<br/>
 &#160;&#160;&#160;&#160;numpages = {3},<br/>
-&#160;&#160;&#160;&#160;url = {http://doi.acm.org/10.1145/3010915.3011858},<br/>
+&#160;&#160;&#160;&#160;url = {https://doi.org/10.1145/3010915.3011858},<br/>
 &#160;&#160;&#160;&#160;doi = {10.1145/3010915.3011858},<br/>
 &#160;&#160;&#160;&#160;acmid = {3011858},<br/>
 &#160;&#160;&#160;&#160;publisher = {ACM},<br/>
