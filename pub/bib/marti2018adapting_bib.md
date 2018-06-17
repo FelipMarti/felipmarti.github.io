@@ -23,6 +23,7 @@ title: Adapting a General-Purpose Social Robot for Paediatric Rehabilitation thr
 &#160;&#160;&#160;&#160;acmid = {3203304},<br/>
 &#160;&#160;&#160;&#160;publisher = {ACM},<br/>
 &#160;&#160;&#160;&#160;address = {New York, NY, USA},<br/>
+&#160;&#160;&#160;&#160;keywords = {In situ design, health care, rehabilitation, socially assistive robots},<br/>
 }</p>
 
 
